@@ -47,5 +47,5 @@ aws eks update-kubeconfig --name RedHat11
 # Delete EKS Cluster
 
 ```bash
-eksctl delete cluster --name eks-oncdecb31 --region ap-south-1
+eksctl delete cluster --name RedHat11 --region ap-south-1
 ```
