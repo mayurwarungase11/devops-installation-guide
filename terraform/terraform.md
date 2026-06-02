@@ -29,14 +29,14 @@ sudo apt-add-repository "deb https://apt.releases.hashicorp.com $(lsb_release -c
 sudo apt-get update
 ```
 
-## Verify
-
-```bash
-terraform version
-```
-
 # Install Terraform
 
 ```bash
 sudo apt-get install terraform
+```
+
+## Verify
+
+```bash
+terraform version
 ```
